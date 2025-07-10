@@ -1,5 +1,7 @@
 # 🔋 DualSense Battery Widget
 
+![Languages](https://img.shields.io/github/languages/count/cardi83/PS5-Battery-Widget) ![Top Language](https://img.shields.io/github/languages/top/cardi83/PS5-Battery-Widget) ![Last Commit](https://img.shields.io/github/last-commit/cardi83/Ps5-Battery-Widget)
+
 A floating desktop widget built by **Chris Cardi** to monitor the battery status of a connected **PlayStation 5 DualSense controller** in real time — featuring customizable appearance, transparency toggle, and auto-refreshing status updates via USB or Bluetooth.
 
 ## 📖 Overview
@@ -32,7 +34,7 @@ This project demonstrates practical Python GUI design, device interfacing with `
 
 ---
 
-## 🎮 Usage
+## [⬛️]>_ Usage
 
 Launch the widget with:
 
